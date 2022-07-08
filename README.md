@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kapi104
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning HTML, CSS, JS and git
+- 🌱 I’m currently learning HTML, CSS, JS
 - 📫 How to reach me: kapi104@interia.pl
 
 <!---
